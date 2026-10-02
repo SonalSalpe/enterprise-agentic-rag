@@ -17,5 +17,5 @@ The following describes the intended scope. Implementation and testing are ongoi
 - **Embeddings:** Gemini embeddings for representing document content and queries.
 - **Document Parsing:** Local parsing of PDF, HTML, TXT, DOCX, and PPTX files.
 - **Observability:** LangSmith and Pydantic Logfire for tracing and debugging.
-- **Evaluation:** RAGAS-based evaluation of retrieval and response quality.
+- **Evaluation:** RAGAS-based evaluation of retrieval and response quality
 
