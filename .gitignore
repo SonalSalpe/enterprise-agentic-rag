@@ -1,0 +1,47 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+ui/.logfire/
+.streamlit/secrets.toml
+
+# Python environments
+.venv/
+venv/
+env/
+tenvv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Testing and tooling cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Generated data
+processed_data/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Local datasets
+DATA/
+
+# Reference files and personal notes
+8hr-MARATHON-main.zip
+paths.docx
+
+# OS/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+/8hr-MARATHON-main/
